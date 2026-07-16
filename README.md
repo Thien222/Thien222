@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3E+Thien222;Building+AI-powered+video+tools...;Automating+the+boring+stuff;Compiling+creativity+into+code...;Level+up.+Push.+Repeat." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Thien222&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+video+tools+%F0%9F%8E%AC;Automating+everything+I+can+%E2%9A%99%EF%B8%8F;Probably+queued+up+in+a+match+%F0%9F%8E%AE;Level+up.+Push.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thien222&color=39FF14&style=for-the-badge&label=TERMINAL+VISITS)
+<img src="https://komarev.com/ghpvc/?username=Thien222&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Thien222?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0d1117"/>
 
 </div>
 
 <br>
 
-```bash
-thien222@github:~$ whoami
-```
+## 🧑‍💻 About Me
 
-> Developer exploring **AI + video generation**. Turning scripts into pipelines and pipelines into content. When not coding, probably grinding a game somewhere.
+> Developer exploring **AI + video generation** — turning scripts into pipelines and pipelines into content. When the terminal's closed, probably queued up in a match. 🎮
 
 <br>
 
-```bash
-thien222@github:~/projects$ ls -la
-```
+## 🚀 Featured Project
+
+<div align="center">
 
 <table>
 <tr>
@@ -29,78 +30,83 @@ thien222@github:~/projects$ ls -la
 ### 🎬 [MMO-GenVideo](https://github.com/Thien222/MMO-GenVideo)
 AI-powered video generation project — automating content creation with Python.
 
-<img src="https://img.shields.io/github/stars/Thien222/MMO-GenVideo?style=for-the-badge&color=39FF14&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/Thien222/MMO-GenVideo?style=for-the-badge&color=39FF14&labelColor=0d1117" alt="top language"/>
+<img src="https://img.shields.io/github/stars/Thien222/MMO-GenVideo?style=for-the-badge&color=FFD700&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/github/languages/top/Thien222/MMO-GenVideo?style=for-the-badge&color=00F5FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/last-commit/Thien222/MMO-GenVideo?style=for-the-badge&color=FF69B4&labelColor=0d1117"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-```bash
-thien222@github:~/skills$ cat stack.txt
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **AI / Video**
 
-![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=39FF14)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-<sub>Edit the badge lines above to add/remove any tech you actually use — these cover what's visible from your repos.</sub>
+<sub align="center">Edit the badges above to match your real stack — these reflect what's visible on your repos.</sub>
 
 <br>
 
-```bash
-thien222@github:~/stats$ ./fetch_stats.sh
-```
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thien222&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thien222&theme=highcontrast&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak Stats" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thien222&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Thien222&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="trophies"/>
 
 </div>
 
 <br>
 
-```bash
-thien222@github:~/activity$ tail -f contributions.log
-```
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thien222&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thien222&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF69B4&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thien222&theme=radical&hide_border=true&background=0d1117&ring=FF69B4&fire=FFD700&currStreakLabel=00F5FF" alt="Streak Stats" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thien222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 </div>
 
 <br>
 
-```bash
-thien222@github:~/contributions$ ./render_snake.sh
-```
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thien222&theme=react-dark&bg_color=0d1117&color=00F5FF&line=FF69B4&point=FFD700&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -110,17 +116,28 @@ thien222@github:~/contributions$ ./render_snake.sh
 
 </div>
 
-<sub>⚙️ Requires a one-time GitHub Action setup — see <b>Automation Setup</b> below.</sub>
+<sub>⚙️ Auto-updates daily via GitHub Actions — see <b>Automation Setup</b> below.</sub>
 
 <br>
 
-```bash
-thien222@github:~/now_playing$ spotify --status
-```
+## 🧬 Metrics Dashboard
 
 <div align="center">
 
-<!-- Replace this URL after you deploy your own instance, see Automation Setup below -->
+<!--START_SECTION:metrics-->
+<img src="https://raw.githubusercontent.com/Thien222/Thien222/main/github-metrics.svg" alt="Metrics" width="100%"/>
+<!--END_SECTION:metrics-->
+
+</div>
+
+<sub>⚙️ Rich all-in-one dashboard (languages, activity calendar, achievements & more) — auto-generated daily. See <b>Automation Setup</b> below.</sub>
+
+<br>
+
+## 🎵 Now Playing
+
+<div align="center">
+
 <img src="https://novatorem-Thien222.vercel.app/api/spotify" alt="Spotify Now Playing"/>
 
 </div>
@@ -129,13 +146,23 @@ thien222@github:~/now_playing$ spotify --status
 
 <br>
 
-```bash
-thien222@github:~/hobbies$ cat interests.yml
-```
+## 💬 Random Dev Quote
 
 <div align="center">
 
-🎮 **Gaming** — when the terminal's closed, probably queued up in a match
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+
+</div>
+
+<sub>Auto-refreshes with a new quote every time someone opens your profile — no setup needed.</sub>
+
+<br>
+
+## 🎮 Hobbies & Interests
+
+<div align="center">
+
+🎮 **Gaming** — probably queued up in a match right now
 🤖 Tinkering with AI tools & side projects
 🎬 Messing around with video/content generation
 
@@ -143,30 +170,21 @@ thien222@github:~/hobbies$ cat interests.yml
 
 <br>
 
-```bash
-thien222@github:~/connect$ cat contact.json
-```
+## 📫 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Thien222)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thien222)
 <!-- Add more, e.g.:
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:your@email.com)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/yourid)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 -->
 
 </div>
 
 <br>
 
-<div align="center">
-
-```
-$ connection closed.
-$ _
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
 
 <br>
 
@@ -174,15 +192,21 @@ $ _
 
 ## ⚙️ Automation Setup (one-time, after you upload this)
 
-**1. Visitor counter, stats cards, activity graph**
-No setup needed — they work automatically once this file is the README of a repo named `Thien222/Thien222`.
+**Already working, zero setup:**
+- Profile views counter, follower badge, trophies, GitHub stats, streak stats, top languages, activity graph, random dev quote — all live the moment this is your `Thien222/Thien222` README.
 
-**2. Contribution snake animation**
-- Add the file `snake.yml` (provided alongside this README) to `.github/workflows/snake.yml` in your `Thien222/Thien222` repo.
-- Go to repo **Settings → Actions → General → Workflow permissions**, set it to **Read and write permissions**, save.
-- Open the **Actions** tab, select "Generate Snake", click **Run workflow** once. It regenerates daily after that automatically.
+**1. Contribution Snake** *(new: `snake.yml` below)*
+- Add the provided `snake.yml` to `.github/workflows/snake.yml`.
+- **Settings → Actions → General → Workflow permissions** → **Read and write permissions** → Save.
+- **Actions tab → "Generate Snake" → Run workflow** (first time only; runs daily after).
+
+**2. Metrics Dashboard** *(new: `metrics.yml` below — this is the big colorful one)*
+- Add the provided `metrics.yml` to `.github/workflows/metrics.yml`.
+- Same permissions as above (only need to set once, covers both workflows).
+- **Actions tab → "Metrics" → Run workflow** (first time only; runs daily after).
+- This single workflow renders a full dashboard: languages breakdown, contribution calendar, achievements, and more, as one image.
 
 **3. Spotify Now Playing**
-- Go to https://github.com/kittinan/spotify-github-profile and click its **Deploy** button to spin up your own free Vercel instance linked to your Spotify account.
-- Replace the image URL in the "now_playing" section above with the one it gives you.
-- This needs your own Spotify login, so it's the one step I can't do for you — takes about 2 minutes.
+- Go to https://github.com/kittinan/spotify-github-profile → click **Deploy** → log in with Spotify.
+- Swap the placeholder image URL in the "Now Playing" section for the one it gives you.
+- Needs your own Spotify login, so this is the one step only you can do.
