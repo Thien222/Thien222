@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Thien222&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:FF1493,100:00F5FF&text=Thien222&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+video+tools+%F0%9F%8E%AC;Automating+everything+I+can+%E2%9A%99%EF%B8%8F;Probably+queued+up+in+a+match+%F0%9F%8E%AE;Level+up.+Push.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -11,13 +11,13 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🧑‍💻 About Me
 
 > Developer exploring **AI + video generation** — turning scripts into pipelines and pipelines into content. When the terminal's closed, probably queued up in a match. 🎮
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🚀 Featured Project
 
@@ -40,7 +40,7 @@ AI-powered video generation project — automating content creation with Python.
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🛠️ Tech Stack
 
@@ -67,44 +67,43 @@ AI-powered video generation project — automating content creation with Python.
 
 </div>
 
-<sub align="center">Edit the badges above to match your real stack — these reflect what's visible on your repos.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
-<br>
-
-## 🏆 Trophies
+## 🧬 All-in-One Metrics Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thien222&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="trophies"/>
+<!--START_SECTION:metrics-->
+<img src="https://raw.githubusercontent.com/Thien222/Thien222/main/github-metrics.svg" alt="Metrics" width="100%"/>
+<!--END_SECTION:metrics-->
 
 </div>
 
-<br>
+<sub>Languages breakdown, contribution calendar, achievements, and activity habits, all in one self-hosted image — no third-party rate limits. Auto-updates daily. Setup below.</sub>
 
-## 📊 Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
+
+## 🧊 3D Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thien222&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF69B4&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thien222&theme=radical&hide_border=true&background=0d1117&ring=FF69B4&fire=FFD700&currStreakLabel=00F5FF" alt="Streak Stats" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thien222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://raw.githubusercontent.com/Thien222/Thien222/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
 
 </div>
 
-<br>
+<sub>An isometric, rainbow-colored version of your contribution graph — auto-generated daily. Setup below.</sub>
 
-## 📈 Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
+
+## 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thien222&theme=react-dark&bg_color=0d1117&color=00F5FF&line=FF69B4&point=FFD700&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thien222&theme=radical&hide_border=true&background=0d1117&ring=FF69B4&fire=FFD700&currStreakLabel=00F5FF" alt="Streak Stats"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🐍 Contribution Snake
 
@@ -116,23 +115,9 @@ AI-powered video generation project — automating content creation with Python.
 
 </div>
 
-<sub>⚙️ Auto-updates daily via GitHub Actions — see <b>Automation Setup</b> below.</sub>
+<sub>Auto-updates daily via GitHub Actions. Setup below.</sub>
 
-<br>
-
-## 🧬 Metrics Dashboard
-
-<div align="center">
-
-<!--START_SECTION:metrics-->
-<img src="https://raw.githubusercontent.com/Thien222/Thien222/main/github-metrics.svg" alt="Metrics" width="100%"/>
-<!--END_SECTION:metrics-->
-
-</div>
-
-<sub>⚙️ Rich all-in-one dashboard (languages, activity calendar, achievements & more) — auto-generated daily. See <b>Automation Setup</b> below.</sub>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🎵 Now Playing
 
@@ -144,19 +129,7 @@ AI-powered video generation project — automating content creation with Python.
 
 <sub>⚙️ Requires deploying your own free instance — see <b>Automation Setup</b> below.</sub>
 
-<br>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
-
-</div>
-
-<sub>Auto-refreshes with a new quote every time someone opens your profile — no setup needed.</sub>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 🎮 Hobbies & Interests
 
@@ -168,7 +141,7 @@ AI-powered video generation project — automating content creation with Python.
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:FF1493,100:00F5FF&width=100%25"/>
 
 ## 📫 Connect
 
@@ -184,7 +157,7 @@ AI-powered video generation project — automating content creation with Python.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:FF1493,100:8A2BE2&section=footer" width="100%"/>
 
 <br>
 
@@ -192,21 +165,21 @@ AI-powered video generation project — automating content creation with Python.
 
 ## ⚙️ Automation Setup (one-time, after you upload this)
 
-**Already working, zero setup:**
-- Profile views counter, follower badge, trophies, GitHub stats, streak stats, top languages, activity graph, random dev quote — all live the moment this is your `Thien222/Thien222` README.
+**Already working, zero setup:** profile views counter, follower badge, streak stats, gradient banners — all live the moment this is your `Thien222/Thien222` README.
 
-**1. Contribution Snake** *(new: `snake.yml` below)*
-- Add the provided `snake.yml` to `.github/workflows/snake.yml`.
-- **Settings → Actions → General → Workflow permissions** → **Read and write permissions** → Save.
-- **Actions tab → "Generate Snake" → Run workflow** (first time only; runs daily after).
+**Why some icons broke before:** the old "GitHub Stats," "Top Languages," and "Trophies" images all came from one shared public server (`github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app`) that's used by millions of profiles and frequently gets rate-limited or goes down. I removed those and replaced them with the **Metrics** and **3D Contribution Calendar** widgets below — these render an SVG straight into *your own* repo via GitHub Actions, so nothing depends on a shared server going down.
 
-**2. Metrics Dashboard** *(new: `metrics.yml` below — this is the big colorful one)*
-- Add the provided `metrics.yml` to `.github/workflows/metrics.yml`.
-- Same permissions as above (only need to set once, covers both workflows).
-- **Actions tab → "Metrics" → Run workflow** (first time only; runs daily after).
-- This single workflow renders a full dashboard: languages breakdown, contribution calendar, achievements, and more, as one image.
+**1. Contribution Snake** — add `snake.yml` to `.github/workflows/snake.yml`
 
-**3. Spotify Now Playing**
+**2. Metrics Dashboard** (languages, achievements, calendar, activity habits) — add `metrics.yml` to `.github/workflows/metrics.yml`
+
+**3. 3D Contribution Calendar** — add `profile3d.yml` to `.github/workflows/profile3d.yml`
+
+**For all three:**
+- **Settings → Actions → General → Workflow permissions** → **Read and write permissions** → Save (once, covers all workflows).
+- **Actions tab** → run each workflow once manually via **Run workflow** (they then run daily on their own).
+
+**4. Spotify Now Playing**
 - Go to https://github.com/kittinan/spotify-github-profile → click **Deploy** → log in with Spotify.
 - Swap the placeholder image URL in the "Now Playing" section for the one it gives you.
 - Needs your own Spotify login, so this is the one step only you can do.
